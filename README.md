@@ -1,2 +1,1 @@
-# PatientDiabetes_Prediction_LogisticRegression
-PatientDiabetes_Prediction_LogisticRegression
+# Predicting Type Of Car Engine
