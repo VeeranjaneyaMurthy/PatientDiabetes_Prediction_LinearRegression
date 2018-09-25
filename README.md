@@ -16,8 +16,6 @@ selection of training set.
 
 #Technologies Used:R
 
-#Libraries Used: pandas numpy matplot scikitlearn searborn
-
 #Work done:
 ->Data is analysed and processed already using excel,Feature engineering is also done.
 ->Data Aquisition
